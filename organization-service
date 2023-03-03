@@ -1,0 +1,8 @@
+spring.datasource.url=jdbc:postgresql://172.20.1.103:5432/courses_organization_ch
+spring.datasource.username=postgre_developer
+spring.datasource.password=123QWE!@#
+postgreDriver=org.postgresql.Driver
+
+spring.jpa.hibernate.ddl-auto=update
+eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
+server.port=8083
